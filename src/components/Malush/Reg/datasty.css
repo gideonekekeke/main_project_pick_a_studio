@@ -1,0 +1,20 @@
+.datsss{
+  height: 40px;
+  width: 390px;
+}
+
+@media screen and (max-width:375px){
+  .datsss{
+    width: 310px;
+  }
+  }
+
+
+@media screen and (max-width:320px){
+.datsss{
+  width: 290px;
+}
+}
+
+
+ 
